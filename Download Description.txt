@@ -1,0 +1,11 @@
+Final Project of Software Design.
+Instructions:
+1-In the "Code" folder you can find the compressed program code in a .zip file (it is necessary to download and unzip it).
+2-It is necessary to run it in NetBeans IDE 8.2 by opening it as a new project and in terms of the database, use the .bak file or
+the Querry that is attached in the compressed file compatible with MYSQL2008.
+3-The class diagram is located in the "Class Diagram" folder.
+4-In the "Description" folder you will find a text file that describes the project.
+5-In the "Description" folder you will find a power point file that explains the program screens.
+
+Note:
+-In case you have any problem with the jars in NetBeans, there is the folder with the necessary jars to fix the problem.
