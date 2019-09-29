@@ -1,0 +1,11 @@
+Proyecto Final de Diseño de Software.
+Instrucciones:
+1-En la carpeta "Code" se encuentra el codigo del programa comprimido en un archivo .zip (es necesario descargarlo y descomprimirlo).
+2-Es necesario ejecutarlo en NetBeans IDE 8.2 abriendolo como un nuevo proyecto y en cuanto a la base de datos, utilizar el archivo .bak o
+el Querry que esta adjunto en el archivo comprimido compatible con MYSQL2008.
+3-El diagrama de clases se encuentra en la carpeta "Class Diagram".
+4-En la carpeta "Description" se encuentra un archivo de texto que describe el proyecto.
+5-En la carpeta "Description" se encuentra un archivo de power point que explica las pantallas del programa.
+
+Nota:
+-En caso de tener algun problema con los jars en NetBeans, existe la carpeta con los jars necesarios para arreglar el problema.
