@@ -9,4 +9,3 @@ el Querry que esta adjunto en el archivo comprimido compatible con SQLSERVER2008
 
 Nota:
 -En caso de tener algun problema con los jars en NetBeans, existe la carpeta con los jars necesarios para arreglar el problema.
--Si se tiene alguna duda de para la conexión entre la base de datos y NetBeans, consultar la carpeta tutoriares.
